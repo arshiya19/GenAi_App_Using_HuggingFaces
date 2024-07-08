@@ -1,1 +1,1 @@
-# GenAi_App_Using_HuggingFaces
+# GenAi_App_Using_langChainxHuggingFace
